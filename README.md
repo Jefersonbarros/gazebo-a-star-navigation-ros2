@@ -38,7 +38,7 @@ python generate_maze.py
 ###  4. Rodar o A*
 
 ```bash
-Rodar o A*
+python astar.py
 
 
 
