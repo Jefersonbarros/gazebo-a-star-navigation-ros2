@@ -27,7 +27,6 @@ pip install matplotlib numpy
 ```
 
 
-###  3. teste
+###  3. Gere o labirinto
 
-```bash
-python3 visao.py
+```python generate_maze_and_world.py
