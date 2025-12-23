@@ -11,7 +11,7 @@ cd astar
 
 ```
 
-###  2. Crie um ambiente Python
+###  2. No terminal dentro do repositório, crie um ambiente Python
 
 ```bash
 python3 -m venv venv
