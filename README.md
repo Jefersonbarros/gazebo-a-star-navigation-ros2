@@ -11,10 +11,12 @@ cd astar
 
 ```
 
-###  2. teste
+###  2. Crie um ambiente Python
 
 ```bash
-cd /root/workshop_assets/assets/scripts
+python3 -m venv venv
+source venv/bin/activate
+
 ```
 
 ###  3. teste
