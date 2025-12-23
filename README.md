@@ -35,3 +35,11 @@ python generate_maze.py
 
 
 ```
+###  4. teste
+
+```bash
+python generate_maze.py
+
+
+
+```
