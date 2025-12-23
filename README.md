@@ -4,18 +4,18 @@ Ambiente de simulação próprio no Gazebo com implementação de navegação de
 Nesse trabalho utilizei um ambiente de simulação ROS2 e Gazebo Ingnition, empacotado em um contêiner Docker. Disponível neste repositório:  https://github.com/milenafariap/ros2_workshop Navegação com Robô Diferencial em Labirinto 3D com A⁎ https://github.com/tatianambsantos/astar
 
 
-Para rodar 
+###  1. teste 
 ```bash
 teste
 ```
 
-teste:
+###  2. teste
 
 ```bash
 cd /root/workshop_assets/assets/scripts
 ```
 
-teste:
+###  3. teste
 
 ```bash
 python3 visao.py
