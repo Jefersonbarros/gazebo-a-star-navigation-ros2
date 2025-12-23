@@ -6,7 +6,7 @@ Nesse trabalho utilizei um ambiente de simulação ROS2 e Gazebo Ingnition, empa
 
 ###  1. teste 
 ```bash
-teste
+/home/jeferson/ros2_workshop/workshop_assets/assets
 ```
 
 ###  2. teste
