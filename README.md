@@ -30,7 +30,8 @@ pip install matplotlib numpy
 ###  3. Gere o labirinto
 
 ```bash
-python generate_maze.py
+python3 generate_maze.py
+
 
 
 
