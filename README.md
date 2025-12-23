@@ -30,3 +30,5 @@ pip install matplotlib numpy
 ###  3. Gere o labirinto
 
 ```python generate_maze_and_world.py
+
+```
