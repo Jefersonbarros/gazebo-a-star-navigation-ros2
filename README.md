@@ -18,6 +18,14 @@ python3 -m venv venv
 source venv/bin/activate
 
 ```
+Instale dependências:
+
+```bash
+pip install matplotlib numpy
+
+
+```
+
 
 ###  3. teste
 
