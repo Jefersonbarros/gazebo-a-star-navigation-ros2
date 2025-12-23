@@ -35,10 +35,10 @@ python generate_maze.py
 
 
 ```
-###  4. teste
+###  4. Rodar o A*
 
 ```bash
-python generate_maze.py
+Rodar o A*
 
 
 
