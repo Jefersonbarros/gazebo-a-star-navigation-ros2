@@ -50,7 +50,7 @@ python astar.py
 <img src="Captura de tela de 2025-12-23 22-23-35.png" alt="Texto Alternativo">
 
 
-###  4. Controle do robô no ROS 2
+###  5. Controle do robô no ROS 2
 
 ```bash
 ros2 launch <seu_world_launch> <arquivo.launch.py>
