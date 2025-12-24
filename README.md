@@ -49,6 +49,7 @@ python astar.py
 ```
 <img src="Captura de tela de 2025-12-23 22-23-35.png" alt="Texto Alternativo">
 
+Copiar código do arquivo "maze_from_matrix_3.sdf" e colar no explore_world.sdf dentro do /home/jeferson/ros2_workshop/workshop_assets/assets
 
 ###  5. Controle do robô no ROS 2
 
