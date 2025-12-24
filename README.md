@@ -32,7 +32,7 @@ pip install matplotlib numpy
 ```bash
 python3 generate_maze.py
 
-
+<img src="Captura de tela de 2025-12-23 21-42-21.png" alt="Texto Alternativo">
 
 
 ```
