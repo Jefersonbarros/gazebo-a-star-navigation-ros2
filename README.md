@@ -47,3 +47,4 @@ python astar.py
 
 
 ```
+<img src="Captura de tela de 2025-12-23 22-23-35.png" alt="Texto Alternativo">
